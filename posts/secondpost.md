@@ -12,6 +12,7 @@ Leverage agile frameworks to provide a robust synopsis for high level overviews.
 
 <a href="{{ '/posts/firstpost/' | url }}">First post</a>
 <a href="{{ '/posts/thirdpost/' | url }}">Third post</a>
+<a href="{{ '/posts/fourthpost/' | url }}">Fourth post</a>
 <a href="{{ '/posts/fifthpost/' | url }}">Fifth post</a>
 <a href="{{ '/posts/sixthpost/' | url }}">Sixth post</a>
 

@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Lemon Easter Cake
 date: 2021-03-28T18:45:49.564Z
 thumbnail: https://bezgluten.pl/cache/przepisy/poprawione/093_Babka-wielkanocna-PKU/babka-wielkanocna-pku.jpg_alpha-0_cr-wp_776x517_im.jpg

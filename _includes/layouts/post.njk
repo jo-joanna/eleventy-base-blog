@@ -3,10 +3,11 @@ layout: layouts/base.njk
 templateClass: tmpl-post
 ---
 <h1>{{ title }}</h1>
+<img src="{{ thumbnail }}" />
 
 {{ content | safe }}
-# I will add image code to display on my blog page rather than creating another .njk
-<img src="{{ thumbnail }}" />
+
+
 
 <hr>
 <ul>
